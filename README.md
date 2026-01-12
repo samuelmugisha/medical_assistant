@@ -1,6 +1,6 @@
 # Medical Assistant AI using RAG
 <p align="center">
-  <img src="" alt="A screenshot">
+  <img src="RAG overview.png" alt="How RAG works">
 </p>
 
 ## Overview

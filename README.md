@@ -1,4 +1,7 @@
 # Medical Assistant AI using RAG
+<p align="center">
+  <img src="" alt="A screenshot">
+</p>
 
 ## Overview
 This notebook develops a Medical Assistant AI solution using a Retrieval Augmented Generation (RAG) framework. It leverages a Large Language Model (Mistral-7B) combined with the Merck Manuals (a comprehensive medical reference) to provide accurate and context-aware answers to clinical questions. The solution aims to address the challenges faced by healthcare professionals in managing vast volumes of medical data and making timely diagnostic decisions.
